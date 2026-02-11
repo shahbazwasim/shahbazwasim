@@ -1,62 +1,101 @@
-🚀 Hi, I'm Shahbaz Wasim
+# 👋 Hi, I'm Shahbaz Wasim  
 
-Full Stack Developer | WordPress Expert | UI/UX Enthusiast
+### 🚀 Full Stack Developer | Web Designer | Problem Solver | Software Developer/Engineer
 
-I am a passionate Web Developer and Designer from Pakistan with 6+ years of experience in building modern, responsive, and high-performance web applications. I love transforming ideas into functional digital experiences.
+I am a highly motivated and versatile **Full Stack Developer** from Pakistan with **8+ years of professional experience** in designing, developing, and deploying complete web solutions. I have worked across multiple technologies and stacks and can adapt quickly to any framework or environment.
 
-👨‍💻 About Me
+I enjoy turning complex problems into simple, scalable, and efficient digital products.
 
-💼 Experienced in Frontend & Backend Development
+---
 
-🌐 Specialized in WordPress, Elementor, and Custom Web Solutions
+## 👨‍💻 About Me
 
-🎨 Strong eye for UI/UX Design using Figma & Adobe XD
+- 💻 Experienced in **Frontend, Backend, and DevOps**
+- 🌐 Strong expertise in **WordPress, Custom Web Applications & APIs**
+- 🎨 UI/UX-focused developer with design skills  
+- ⚡ Performance optimization and SEO specialist  
+- 🔧 Comfortable with both modern frameworks and legacy systems  
+- 📚 Lifelong learner exploring AI and emerging technologies  
+- 🎯 Passionate about clean architecture and scalable systems  
 
-🔧 Focused on clean code, performance, and SEO-friendly development
+---
 
-📚 Always learning and exploring new technologies
+## 🛠 Full Stack Tech Expertise
 
-🎯 Goal: Build scalable and impactful digital products
+### 🌐 Frontend Technologies
+HTML5 • CSS3 • JavaScript • TypeScript • React.js • Next.js • Vue.js • Angular  
+Bootstrap • Tailwind CSS • Material UI • jQuery • AJAX • JSON  
+Responsive Design • Cross-Browser Compatibility • UI/UX Implementation  
 
-🛠 Tech Stack
+### ⚙ Backend Technologies
+PHP • Node.js • Express.js • ASP.NET • Java Spring Boot  
+REST APIs • GraphQL • Authentication Systems • Microservices  
 
-Frontend:
-HTML5 • CSS3 • JavaScript • React • Vue.js • Bootstrap
+### 🗄 Databases
+MySQL • PostgreSQL • MongoDB • Firebase • SQL Server  
 
-Backend:
-PHP • Node.js • ASP.NET • Java Spring Boot
+### 🧰 CMS & Platforms
+WordPress • Elementor • WooCommerce • Shopify • Drupal  
 
-CMS & Tools:
-WordPress • Elementor • Yoast SEO • Figma • Adobe Photoshop
+### ☁ DevOps & Tools
+Git • GitHub • GitLab • Docker • cPanel • Linux Servers  
+Nginx • Apache • CI/CD • Deployment Automation  
 
-Databases:
-MySQL • MongoDB
+### 🎨 Design & Creative Tools
+Figma • Adobe XD • Adobe Photoshop • Canva  
 
-Other Skills:
-Git/GitHub • API Integrations • Performance Optimization • SEO
+### 📈 Digital & SEO Skills
+Technical SEO • Google Analytics • Google Ads  
+Performance Optimization • Speed Optimization  
+Tracking Pixels • Conversion Optimization  
 
-🌟 Featured Projects
+### 🔌 Integrations
+Payment Gateways • Third-Party APIs  
+CRM Integrations • SMS & Email Services  
 
-🔹 NXGN Arena – Sports platform website
+---
 
-🔹 Zakipay – Saudi Arabia focused platform
+## 🌟 What I Can Build
 
-🔹 Multiple custom WordPress & Elementor websites
+- Complete Web Applications  
+- Business Management Systems  
+- E-commerce Platforms  
+- Custom Dashboards  
+- Landing Pages  
+- API Integrations  
+- Automation Systems  
+- SEO Optimized Websites  
 
-🔹 Business management and automation systems
+---
 
-🔗 Portfolio: https://shahbazwasim.netlify.app/
+## 📂 Portfolio & Work
 
-📫 Connect With Me
+🔗 Portfolio: **https://shahbazwasim.netlify.app/**  
 
-💼 LinkedIn: [Your LinkedIn Profile]
+Some of my recent work includes:
 
-🌐 Portfolio: https://shahbazwasim.netlify.app
+- SprintReport  
+- Affluent Event Center  
+- Kobu Foundry  
+- Haar Pigment  
+- Admiralia  
+- Mindyasa  
+- Secret Vault App  
 
-📧 Email: shahbaz@example.com
+---
 
-⚡ Fun Fact
+## 🤝 Let's Connect
 
-I enjoy solving complex problems, designing clean interfaces, and helping businesses grow through technology.
+- 🌐 Portfolio: https://shahbazwasim.netlify.app  
+- 💼 LinkedIn: https://www.linkedin.com/in/shahbazwasim/
+- 📧 Email: shahbaz.wasim01@gmail.com
+
+---
+
+### ⚡ Motto
+
+> “Code smart, build fast, deliver quality.”
+
+---
 
 ⭐ Feel free to explore my repositories and collaborate!
